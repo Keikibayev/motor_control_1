@@ -22,7 +22,7 @@ interval = 1.2
 fast_interval = 0
 int_counter = 0
 directionKL = 1
-edge = 2.8
+edge = 3.2
 fast_time = 0
 fast_interval_value = 0.1
 
